@@ -1,0 +1,17 @@
+# Sample Video File
+
+This is a placeholder for the video file that will be played when the detector triggers.
+
+## Instructions for Users:
+
+1. Replace this file with your own video file (MP4, AVI, MOV, etc.)
+2. Update the `VIDEO_PATH` variable in `yolo_realtime.py` to point to your video file
+3. Make sure the video file is in a format supported by ffpyplayer
+
+## Example:
+```python
+VIDEO_PATH = "my_trigger_video.mp4"
+```
+
+## Note:
+The original video files (creed.mp4, goggins.mp4, v1.mp4, etc.) are not included in this repository due to their large size. Users should provide their own video files.
