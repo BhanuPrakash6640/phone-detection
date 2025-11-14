@@ -1,9 +1,6 @@
-# YOLOv11 Phone Detector 📱
+Phone Detector 📱
 
 A phone detector to help you stop procrastinating on your work. When a phone is detected in the view of your webcam, it will remind you to lock in. Built using YOLOv11 and OpenCV.
-
-![Example screenshot of detector](example.jpeg)
-![Example screenshot of detector](example_2.jpeg)
 
 ## Features
 
